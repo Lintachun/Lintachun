@@ -1,4 +1,4 @@
-# [![waylon walker header](https://cdn.discordapp.com/attachments/760718636670779422/1088350932577828884/123.png)](https://cdn.discordapp.com/attachments/760718636670779422/1088350932577828884/123.png)
+# [![waylon walker header](https://cdn.discordapp.com/attachments/760718636670779422/1088351456450596974/123_-_.png)](https://cdn.discordapp.com/attachments/760718636670779422/1088350932577828884/123.png)
 # Quick overview
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
