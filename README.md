@@ -1,4 +1,4 @@
-# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
+# [![waylon walker header](https://cdn.discordapp.com/attachments/760718636670779422/1088350932577828884/123.png)](https://waylonwalker.com)
 # Quick overview
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
