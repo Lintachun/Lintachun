@@ -6,5 +6,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Lintachun&show_icons=true&line_height=27" alt="My github stats" />
 </a>  
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lintachun)](https://git.io/streak-stats)
