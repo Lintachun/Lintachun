@@ -32,4 +32,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=xfyuan&show_icons=true&line_height=27" alt="My github stats" />
 </a>  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=L)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lintachun)](https://git.io/streak-stats)
